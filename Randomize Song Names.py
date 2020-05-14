@@ -5,6 +5,13 @@ Created on Thu May 14 19:04:14 2020
 @author: Adi
 """
 
+'''
+Randomize the order of the files in a specific folder.
+Generates random numbers based on the number of files.
+Attaches random numbers to the beginning of the file name.
+Does not repeat the random numbers.
+'''
+
 import os
 import random
 
