@@ -9,7 +9,7 @@ https://stackoverflow.com/questions/48289636/speedtest-python-script
 """
 
 # ---------------------------------------------
-# Instal speedtest: 'pip install speedtest-cli'
+# Install speedtest: 'pip install speedtest-cli'
 # ---------------------------------------------
 import speedtest
 from datetime import datetime
